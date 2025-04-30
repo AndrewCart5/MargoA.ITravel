@@ -1,5 +1,5 @@
 # A.IIteneraryMaker
- MargoA.ITravel 🌍✈️
+MargoA.ITravel 🌍✈️
 Welcome to MargoA.ITravel, an innovative travel assistant application powered by cutting-edge technology. This project aims to revolutionize how travelers plan, explore, and enjoy their journeys by providing AI-driven recommendations, seamless itineraries, and an engaging user experience.
 
 🚀 Features
@@ -56,3 +56,6 @@ git push origin feature-name
 Submit a pull request for review.
 📝 License
 This project is licensed under the MIT License. Feel free to use and adapt it as per the license terms. See the LICENSE file for more details.
+ 
+ 
+ 
